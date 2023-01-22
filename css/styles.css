@@ -15,3 +15,17 @@
     background-image: url("../images/carousel/5.jpg");
     height: 100vh;
   }
+  .btn2-primary{
+    height: 40px;
+    width: 150px;
+    background: #0c2e8a;
+    border: 1px solid white;
+    color: aliceblue;
+    border-radius: 5px;
+  }
+  .btn2-primary:hover{
+    background: #50d8af;
+  }
+  .client-img{
+    width: 160px;
+  }
