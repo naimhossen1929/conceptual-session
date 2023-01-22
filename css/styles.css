@@ -1,0 +1,17 @@
+    /* font import */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+  *{
+    font-family: 'Poppins', sans-serif;
+  }
+  .banner-img-1{
+    background-image: url("../images/carousel/3.jpg");
+    height: 100vh;
+  }
+  .banner-img-2{
+    background-image: url("../images/carousel/4.jpg");
+    height: 100vh;
+  }
+  .banner-img-3{
+    background-image: url("../images/carousel/5.jpg");
+    height: 100vh;
+  }
